@@ -5,5 +5,5 @@ def asal(e):
             return False
     print(e,"asaldir")
     return True
-
+print("delirdim")
 
